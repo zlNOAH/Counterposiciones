@@ -1,0 +1,23 @@
+.container{
+    background-color: goldenrod;
+    color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+}
+h1{
+    width: 100%;
+    height: 38px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: -10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(../img/fondocs.png);
+}
+.nose{
+    padding: 80px 20px 20px 20px;
+    margin-top: -100px;
+}

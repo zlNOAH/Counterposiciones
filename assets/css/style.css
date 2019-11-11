@@ -1,0 +1,109 @@
+.container{
+    background-color: goldenrod;
+    color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+}
+h1{
+    width: 100%;
+    height: 38px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: -10px;
+}
+body{
+    background-image: url(../img/fondocs.png);
+  
+    background-size: contain;
+
+}
+.container2{
+    background-color: darkgoldenrod;
+    color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+}
+
+h2{
+    width: 100%;
+    height: 28px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: -10px;
+    margin-top: 800px;
+}
+.titulocache{
+    background-image: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+.fotocache{
+padding: 70px 20px 20px 20px;
+}
+.fotomirage{
+   margin-left: 600px;
+   margin-top: -275px;
+}
+.fotooverpass{
+    margin-left: 1250px;
+    margin-top: -250px;
+}
+.titulocache{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+margin-left: 120px;
+font-size: 40px;
+}
+.titulomirage{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+margin-left: 120px;
+font-size: 40px;
+margin-top: -360px;
+}
+.titulooverpass{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+margin-left: 110px;
+font-size: 40px;
+margin-top: -340px;
+}
+.fotodust{
+    margin-left: 20px;
+    margin-top: 200px;
+}
+.fotoinferno{
+    margin-left: 600px;
+    margin-top: -306px;
+}
+.fotocobblestone{
+    margin-left: 1250px;
+    margin-top: -308px;
+}
+.titulodust{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+margin-left: 110px;
+font-size: 40px;
+margin-top: -80px;
+}
+.tituloinferno{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+margin-left: 110px;
+font-size: 40px;
+margin-top: -340px;
+}
+.titulocobblestone{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+margin-left: 50px;
+font-size: 40px;
+margin-top: -340px;
+}
+.flecha{
+    margin-top: -780px;
+    margin-left: 10px;
+    }
