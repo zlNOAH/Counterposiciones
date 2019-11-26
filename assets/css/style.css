@@ -15,7 +15,9 @@ h1{
 body{
     background-image: url(../img/fondocs.png);
   
-    background-size: contain;
+    background-size: cover;
+    width: 1280px;
+    height: 720px;
 
 }
 .container2{
